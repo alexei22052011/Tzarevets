@@ -417,6 +417,5 @@ int main()
    CloseHandle(balls);
 
    CreateThread(0, 0, effect8, 0, 0, 0);
-   Sleep(30000);
    while (0==0){}
 }
